@@ -1,7 +1,7 @@
 ---
 services: Monitor
 platforms: java
-author: hovsepm
+author: yaohaizh
 ---
 
 ## Getting Started with Monitor - Web App Performance Monitoring Alerts - in Java ##
