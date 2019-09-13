@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Monitor
-- platforms: java
+description: "Getting Started with Monitor - Web App Performance Monitoring Alerts - in Java"
+urlFragment: monitor-java-metric-alerts-on-critical-performance
 ---
 
 # Getting Started with Monitor - Web App Performance Monitoring Alerts - in Java #
